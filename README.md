@@ -1,2 +1,2 @@
 # flutter-basics
-This is free course for beginners
+This is premium course for beginners
